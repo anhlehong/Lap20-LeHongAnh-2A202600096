@@ -1,0 +1,67 @@
+[
+  {
+    "query": "Research GraphRAG state-of-the-art and write a 500-word summary",
+    "single": {
+      "latency": 13.319288200000301,
+      "cost": 0.00045239999999999994,
+      "quality": 4.0
+    },
+    "multi": {
+      "latency": 49.34182440000586,
+      "cost": 0.0019418999999999999,
+      "quality": 10.0
+    }
+  },
+  {
+    "query": "What are the key differences between RAG and GraphRAG?",
+    "single": {
+      "latency": 14.632360499992501,
+      "cost": 0.00048195,
+      "quality": 4.0
+    },
+    "multi": {
+      "latency": 51.628860700002406,
+      "cost": 0.0020283000000000002,
+      "quality": 10.0
+    }
+  },
+  {
+    "query": "Explain how knowledge graphs improve retrieval-augmented generation",
+    "single": {
+      "latency": 10.745354400016367,
+      "cost": 0.00050625,
+      "quality": 4.0
+    },
+    "multi": {
+      "latency": 41.59246020001592,
+      "cost": 0.00179205,
+      "quality": 10.0
+    }
+  },
+  {
+    "query": "What are the main challenges in implementing GraphRAG systems?",
+    "single": {
+      "latency": 15.55402999999933,
+      "cost": 0.0004907999999999999,
+      "quality": 4.0
+    },
+    "multi": {
+      "latency": 36.946441600041,
+      "cost": 0.00251625,
+      "quality": 10.0
+    }
+  },
+  {
+    "query": "Compare GraphRAG with traditional vector search approaches",
+    "single": {
+      "latency": 12.992942799988668,
+      "cost": 0.0005853,
+      "quality": 4.0
+    },
+    "multi": {
+      "latency": 45.647868099971674,
+      "cost": 0.0019794,
+      "quality": 10.0
+    }
+  }
+]
